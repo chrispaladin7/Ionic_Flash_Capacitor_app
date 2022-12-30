@@ -1,0 +1,7 @@
+{
+  "name": "flash",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
