@@ -19,9 +19,9 @@ or
 ## Installation
 Clone this repository and navigate to the project directory:
 
-git clone https://github.com//chrispaladin7/Ionic_Storage.git
+git clone https://github.com//chrispaladin7/Ionic_Flash_Capacitor_app.git
 
-cd Ionic_Storage
+cd Ionic_Flash_Capacitor_app
 
 
 ### Install the dependencies:
